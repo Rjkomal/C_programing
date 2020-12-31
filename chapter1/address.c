@@ -1,3 +1,4 @@
+//<------_------------Question-1.1------( Programing in c by E. Balaguruswamy) -------_-------->
 #include<stdio.h>
 int main()
 { char name[20],city[20],Char;
